@@ -1,0 +1,114 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 40px;
+  color: blue;
+}
+hr{
+  border: dotted;
+      border-bottom: none;
+      border-width: 20px;
+      width: 14%;
+      color: #CF0000;
+      margin: 100px auto;
+}
+h1{
+margin: 0;
+font-family: 'Sacramento', cursive;
+font-size: 5.625em;
+color: #FF165D;
+}
+
+h2{
+  font-family: 'Lilita One', cursive;
+  font-size: 3.5em;
+  color: red;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+}
+
+.TOP{
+  background-color: #23049D;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  background-color: #F6F7D7;
+  margin: 100px 0;
+}
+
+.ss-1{
+  width: 30%;
+  margin: auto;
+}
+
+.profile{
+  background-color: #FF9A00;
+}
+
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+}
+
+
+
+.pro{
+  text-decoration: underline;
+  font-weight: normal;
+  color: red;
+  font-size: 1.5em;
+}
+
+.top{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom{
+position: absolute;
+left: 300px;
+bottom: 250px;
+}
+.bottom-container{
+  background-color: #E93B81;
+  font-size: 2.85rem;
+  padding: 20px 0;
+}
+
+.money{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bean{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.Gamer{
+  margin: 100px auto 100px auto;
+  color: yellow;
+  font-family: 'Lilita One', cursive;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.my-fav{
+  color: blue;
+}
+
+a:hover{
+  color: green;
+}
